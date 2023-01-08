@@ -1,0 +1,14 @@
+body {
+    background-color: gold;
+    color: red;
+    text-align: center;
+  }
+  
+  form {
+    margin: 20px 0;
+  }
+  
+  #weather {
+    margin: 20px 0;
+  }
+  
